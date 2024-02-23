@@ -9,4 +9,5 @@ Hi, I'm Roro! I like gaming and coding. I currently am making mods for lethal co
 
 Check out my projects!
 
-#Commits
+# Snake Commit
+![SNAKE](https://github.com/deR0R0/deR0R0/blob/output/github-contribution-grid-snake-dark.svg)
