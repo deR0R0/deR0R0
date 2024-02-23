@@ -12,3 +12,6 @@ Check out my projects!
 
 # Snake Commit
 ![SNAKE](https://github.com/deR0R0/deR0R0/blob/output/github-contribution-grid-snake-dark.svg)
+
+# Stats
+[![deR0R0's GitHub stats](https://github-readme-stats.vercel.app/api?username=deR0R0)](https://github.com/anuraghazra/github-readme-stats)
