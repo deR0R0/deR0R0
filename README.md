@@ -3,7 +3,7 @@
 Hi, I'm Roro! I like gaming and coding. I currently am making mods for lethal company, and I'm thinking about getting into Minecraft modding.
 
 * 🏠 USA
-* 👨‍🎓 Rising Student @ JMHS
+* 👨‍🎓 Rising Student @ TJHS
 * 🧠 1? Years Old
 * 👨‍💻 Pretty Good In: Python, HTML CSS Javascript.
 * 🏫 Learning: C#, C++, Java
