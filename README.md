@@ -4,7 +4,6 @@ Hi, I'm Roro! I like gaming and coding. I currently am making mods for lethal co
 
 * 🏠 USA
 * 👨‍🎓 Rising Student @ TJHS
-* 🧠 1? Years Old
 * 👨‍💻 Pretty Good In: Python, HTML CSS Javascript.
 * 🏫 Learning: C#, C++, Java
 * 🎮 Gamer: [Minecraft](https://namemc.com/profile/Symbull.1),[Fortnite](https://fortnitetracker.com/profile/all/Symbull) ,[Valorant](https://tracker.gg/valorant/profile/riot/Roro%2300000/overview),[LoL](https://tracker.gg/lol/profile/riot/NA/%E6%88%91%E5%96%9C%E6%AC%A2%E4%BD%A0%23valor/overview?playlist=NORMAL_5V5_QUICKPLAY)
