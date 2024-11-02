@@ -2,6 +2,8 @@
 
 Hi, I'm Robert Zhao! I enjoy gaming and programming in my free time. You can check out my site [here](https://der0r0.github.io), its pretty cool. :)
 
+Why do I mainly use python? It's because.... yeah I have no clue 🤷‍♂️
+
 * 🏠: USA
 * 📖: TJHSST
 * 👌: Experienced in python, web development, and (some) Java.
