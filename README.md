@@ -1,19 +1,31 @@
-![roro-github-aboutme](https://github.com/deR0R0/deR0R0/assets/126121919/5ad0b3f5-5f57-43c0-9e2f-b394f8958aa0)
+![Sunset](https://github.com/user-attachments/assets/012f2f4d-4eb4-4e34-80ae-5d54468a155e)
+*feel the inner peace. we are not going to rage at git*
 
-Hi, I'm Robert Zhao! I enjoy gaming and programming in my free time. You can check out my site [here](https://der0r0.github.io), its pretty cool. :)
+# 👋 Welcome
+I'm Robert Zhao, current a high school student @ TJHSST. I'm quite busy right now, but you'll see me pop around some Github repos. Check out my sick [website](https://robertzhao.dev) by the way!
 
-Why do I mainly use python? It's because.... yeah I have no clue 🤷‍♂️
+# 🎯 Goals/Current Mission
+1. I'm currently learning C++ as I'm trying to get into competitive programming.
+2. Also planning on learning some game dev stuff.
 
-* 🏠: USA
-* 📖: TJHSST
-* 👌: Experienced in python, web development, and (some) Java.
-* 🏫: Currently doing school CTF challenges and growing my skill in python
-* 🎮: Game Profiles [Minecraft](https://namemc.com/profile/Symbull.1),[Fortnite](https://fortnitetracker.com/profile/all/Symbull) ,[Valorant](https://tracker.gg/valorant/profile/riot/%E6%88%91%E5%BE%88%E5%B7%AE%23bad/overview),[League](https://tracker.gg/lol/profile/riot/NA/%E6%88%91%E5%96%9C%E6%AC%A2%E4%BD%A0%23valor/overview?playlist=NORMAL_5V5_QUICKPLAY)
+I'm just trying to survive TJ and expand my skills beyond the horizon. (funny joke because of the sunset!)
 
-Check out my poorly-written, rushed, unoptimized projects!
+# 🎯 Skills
+
+## Languages
+- Python
+- Java
+- JS/TS
+- C++
+- C#
+
+## OS
+- OSX
+- Windows
 
 
-![SNAKE](https://github.com/deR0R0/deR0R0/blob/output/github-contribution-grid-snake-dark.svg)
+
+![Commit History](https://github.com/deR0R0/deR0R0/blob/output/github-contribution-grid-snake-dark.svg)
 
 
 ![deR0R0's GitHub stats](https://github-readme-stats.vercel.app/api?username=deR0R0&show_icons=true&theme=dracula)
