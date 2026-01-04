@@ -21,13 +21,13 @@ MacOS, Windows, Ubuntu (linux)
 # 🛠️ Notable Projects
 While some of these projects aren't open-sourced, they're still pretty cool!
 
-## CaliforniaBoombox
+## [CaliforniaBoombox](https://thunderstore.io/c/lethal-company/p/RoroMods/CaliforniaBoombox/)
 CaliforniaBoombox is a Lethal Company mod I made in 2023 that's kinda just a stupid mod. It replaces the boombox sounds with California Gurls by Katy Perry (because of the memes at that time). Some technologies I used for this project were: IlSpy (decompiler to view source code), BepInEx (for the injector), Unity (to make the sound file into a unity asset file), and C# (language). This mod has 13k+ downloads (on thunderstore)!
 
-## SSSnac-Time
+## [SSSnac-Time](https://github.com/deR0R0/sssnac-time)
 SSSnac-Time is a snake game made in Java Swing. This project was made for my Computer Science final project, and I wanted to make something that demonstrated everything I had learned in that class. I took heavy inspiration from the Google snake and it's smooth animations (although, i couldn't finish it by the deadline). The technologies I used for this project were: Swing (gui graphics) and Java (language).
 
-## SSTimer
+## [SSTimer](https://github.com/deR0R0/sstimer)
 SSTimer is an overlay app for League of Legends that allows for players to manually track summoner spell timers. I saw many videos of Youtubers using these types of apps (like porofessor, etc) where they had the spell timers. Although, when I tried to use them, it would lag my computer very hard and use ~400MB RAM including Overwolf. I decided I wanted to create a lighter solution (but I used electron.js...) and open source it. I mostly succeeded in this: my FPS wouldn't drop from 144 -> 90 (but instead drop from 144 -> 120 with my app) and memory usage dropped to 120 MB.
 
 # Commit History Snake
