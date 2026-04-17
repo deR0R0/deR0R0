@@ -1,3 +1,6 @@
+> [!IMPORTANT]
+> All repositories are **hand-written** by me. Not vibe-coded. AI might be used here and there for architecture design tips, but is not used for implementation.
+
 ![Sunset](https://github.com/user-attachments/assets/012f2f4d-4eb4-4e34-80ae-5d54468a155e)
 
 # 👋 Introduction
