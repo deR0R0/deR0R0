@@ -1,46 +1,31 @@
 > [!IMPORTANT]
-> All repositories are **hand-written** by me. Not vibe-coded. AI might be used here and there for architecture design tips, but is not used for implementation.
+> All repositories are **hand-written** by me. Not vibe-coded. AI might be used here and there for architecture design tips, but is not used for implementation and debugging.
 
-![Sunset](https://github.com/user-attachments/assets/012f2f4d-4eb4-4e34-80ae-5d54468a155e)
+![deR0R0's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=deR0R0&show_icons=true&theme=ayu-mirage)
+![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=deR0R0&hide=gdscript&theme=ayu-mirage)
 
-# 👋 Introduction
-I'm Robert Zhao, currently a high school student @ TJHSST. I'm quite busy right now, but you'll see me pop around some Github repos. Check out my sick [website](https://robertzhao.dev).
-
-# 🎯 Goals/Current Mission
-1. Learning C++ through game development.
-2. Finding opportunities to demonstrate my skills in a real-world work environment.
-
-# 🎯 Skills
+## Who Am I?
+I'm a high school full-stack developer with a couple years of experience. Checking out my repos and projects? I'm most proud of [CaliforniaBoombox](https://thunderstore.io/c/lethal-company/p/RoroMods/CaliforniaBoombox/) and [SSSnac-time](https://github.com/deR0R0/sssnac-time)
 
 ## Languages
-Python, Java, Web Dev (HTML, CSS), JS/TS, C++, C#, Arduino
+
+![Static Badge](https://img.shields.io/badge/Java-red?style=flat-square&logo=openjdk&logoColor=%23f4ce7c&color=%231f2430)
+![Static Badge](https://img.shields.io/badge/Python-red?style=flat-square&logo=python&logoColor=%23f4ce7c&color=%231f2430)
+![Static Badge](https://img.shields.io/badge/Javascript-red?style=flat-square&logo=javascript&logoColor=%23f4ce7c&color=%231f2430)/![Static Badge](https://img.shields.io/badge/Typescript-red?style=flat-square&logo=typescript&logoColor=%23f4ce7c&color=%231f2430)
+(learning) ![Static Badge](https://img.shields.io/badge/C%2B%2B-red?style=flat-square&logo=cplusplus&logoColor=%23f4ce7c&color=%231f2430)
 
 ## Frameworks
-Next.js, Electron.js, Tauri, Swing
 
-## OS
-MacOS, Windows, Ubuntu (linux)
+![Static Badge](https://img.shields.io/badge/Next.js-red?style=flat-square&logo=nextdotjs&logoColor=%23f4ce7c&color=%231f2430)
+![Static Badge](https://img.shields.io/badge/FastAPI-red?style=flat-square&logo=fastapi&logoColor=%23f4ce7c&color=%231f2430)
+![Static Badge](https://img.shields.io/badge/Flask-red?style=flat-square&logo=flask&logoColor=%23f4ce7c&color=%231f2430)
+![Static Badge](https://img.shields.io/badge/Electron-red?style=flat-square&logo=electron&logoColor=%23f4ce7c&color=%231f2430)
+![Static Badge](https://img.shields.io/badge/Tauri-red?style=flat-square&logo=tauri&logoColor=%23f4ce7c&color=%231f2430)
 
-# 🛠️ Notable Projects
-While some of these projects aren't open-sourced, they're still pretty cool!
+## Operating Systems
+Daily Drive: ![Static Badge](https://img.shields.io/badge/macOS-red?style=flat-square&logo=macos&logoColor=%23f4ce7c&color=%231f2430)
+Dabbling In: ![Static Badge](https://img.shields.io/badge/Ubuntu-red?style=flat-square&logo=ubuntu&logoColor=%23f4ce7c&color=%231f2430) ![Static Badge](https://img.shields.io/badge/Debian-red?style=flat-square&logo=debian&logoColor=%23f4ce7c&color=%231f2430) ![Static Badge](https://img.shields.io/badge/Windows-red?style=flat-square&logoColor=%23f4ce7c&color=%231f2430)
 
-## [CaliforniaBoombox](https://thunderstore.io/c/lethal-company/p/RoroMods/CaliforniaBoombox/)
-CaliforniaBoombox was created because I wanted a mod that added this meme music to the game. I thought through implementation: did I want to create a custom item for such a simple mod or should I just simply replace the audio of a pre-existing item in the game? I chose the second option since it's also client-sided and doesn't require the server to have the mod installed too, reducing capatability nightmares!
 
-## [SSSnac-Time](https://github.com/deR0R0/sssnac-time)
-SSSnac-Time was created for my Computer Science Foundations final project. I wanted to mimic the Google snake's gameplay smoothness and I (semi) succeeded. If I had more time to work on this project, I would fix the animations and such to make it feel a lot more "connected" and not jumbled pieces of images.
 
-## [SSTimer](https://github.com/deR0R0/sstimer)
-SSTimer was created because I wanted to use apps like Porofessor, etc, but all these apps do is load a bunch of ads on your PC, ultimately slowing it down and reducing FPS. I programmed SSTimer with efficiency in mind (I did not succeed since Electron.js is too heavy! Still a cool project though), more specifically, RAM and CPU. CPU was easy since I wasn't loading ads on the user's PC and RAM was a little difficult since most of the RAM used was by the heavy Chromnium processes.
-
-# Other
-
-1. Hack The Nest V3 - Won Beginner Track
-
-# Commit History Snake
 ![Commit History](https://github.com/deR0R0/deR0R0/blob/output/github-contribution-grid-snake-dark.svg)
-
-# Github Stats
-![deR0R0's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=deR0R0&show_icons=true&theme=ayu-mirage)
-
-![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=deR0R0&hide=gdscript&theme=ayu-mirage)
