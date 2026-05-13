@@ -22,6 +22,10 @@ I'm a high school full-stack developer with a couple years of experience. Checki
 ![Static Badge](https://img.shields.io/badge/Electron-red?style=flat-square&logo=electron&logoColor=%23f4ce7c&color=%231f2430)
 ![Static Badge](https://img.shields.io/badge/Tauri-red?style=flat-square&logo=tauri&logoColor=%23f4ce7c&color=%231f2430)
 
+## Other
+![Static Badge](https://img.shields.io/badge/Nginx-red?style=flat-square&logo=nginx&logoColor=%23f4ce7c&color=%231f2430)
+![Static Badge](https://img.shields.io/badge/Docker-red?style=flat-square&logo=docker&logoColor=%23f4ce7c&color=%231f2430)
+
 ## Operating Systems
 Daily Drive: ![Static Badge](https://img.shields.io/badge/macOS-red?style=flat-square&logo=macos&logoColor=%23f4ce7c&color=%231f2430)
 Dabbling In: ![Static Badge](https://img.shields.io/badge/Ubuntu-red?style=flat-square&logo=ubuntu&logoColor=%23f4ce7c&color=%231f2430) ![Static Badge](https://img.shields.io/badge/Debian-red?style=flat-square&logo=debian&logoColor=%23f4ce7c&color=%231f2430) ![Static Badge](https://img.shields.io/badge/Windows-red?style=flat-square&logoColor=%23f4ce7c&color=%231f2430)
