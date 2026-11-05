@@ -1,5 +1,5 @@
 > [!IMPORTANT]
-> All repositories are **hand-written** by me. Not vibe-coded. AI might be used here and there for architecture design tips, but is not used for implementation and debugging.
+> All repositories are **hand-written** by me! If AI was used for a project, it will be disclosed in the repository.
 
 ![deR0R0's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=deR0R0&show_icons=true&theme=ayu-mirage)
 ![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=deR0R0&hide=gdscript&theme=ayu-mirage)
